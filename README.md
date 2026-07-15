@@ -91,15 +91,21 @@ python -m streamlit run ui.py
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+<img width="1856" height="695" alt="Screenshot 2026-07-15 135605" src="https://github.com/user-attachments/assets/81d185d1-c0f4-402e-af97-8d77e3bd4d30" />
+
 
 ### Enter YouTube URL
 
-![Input](screenshots/input.png)
+<img width="1856" height="695" alt="Screenshot 2026-07-15 135605" src="https://github.com/user-attachments/assets/ce27766c-080b-4485-a0a9-7205791a8cfe" />
+
 
 ### AI Analysis Result
+1.<img width="1828" height="942" alt="Screenshot 2026-07-15 135631" src="https://github.com/user-attachments/assets/05e628dc-9494-4a7a-8830-124a988fe1ae" />
+2.<img width="1778" height="940" alt="Screenshot 2026-07-15 135702" src="https://github.com/user-attachments/assets/9d05bf21-0010-483d-a90b-ec4075b22be6" />
+3.<img width="1847" height="881" alt="Screenshot 2026-07-15 135722" src="https://github.com/user-attachments/assets/145c9db5-3e08-4dc4-84a1-36b5301791f8" />
 
-![Analysis](screenshots/result.png)
+
+
 
 ---
 
